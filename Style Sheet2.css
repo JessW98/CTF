@@ -1,0 +1,70 @@
+header{
+	color: white;
+	width: 50%;
+	margin: auto;
+	vertical-align: top;
+}
+
+body{
+	background-color: rgb(7,28,59);
+}
+h1 {
+  color: White;
+  font-family: Arial;	
+  text-align: center;
+}
+h2{
+	color: rgb(7,28,59);
+	font-family: Arial;
+	font-weight: bold;
+}
+h3,p{
+	color: gray;
+	font-family: Arial;	
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(59,175,228);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 82px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+  color: rgb(59, 175, 228);
+}
+
+	
+table{
+	width: 100%;
+}
+#roundedimage {
+  border-radius: 150px;
+}
+#Team{
+    text-align:center;
+	background-color: white;
+	vertical-align:middle;
+	width: 100%;
+}
+#active {
+  background-color: White;
+  color: rgb(7,28,59);
+}
+
+
+
